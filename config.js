@@ -30,30 +30,30 @@ global.sgh = 'https://github.com/Aril-MD' //github
 global.sgc = 'https://chat.whatsapp.com/HoW2ThdVF9k8YWN577S5Js' //group whatsapp
 global.saluran = 'https://whatsapp.com/channel/0029VaJMOH7CHDyls9qnPm25' //saluran whatsapp
 global.syt = 'https://www.youtube.com/@aprilofc' //youtube
-global.swa = 'https://wa.me/628156808952' //whatsapp
+global.swa = 'https://wa.me/6283124327057' //whatsapp
 global.tele = 'https://t.me/ZykoBotz-MD' //telegram
 global.sdc = 'https://discord.com/Zyko' //discord
 global.snh = 'https://nhentai.net/' //nhentai
 
 /*============== PAYMENT ==============*/
-global.pdana = '08156808952' //pulsa1
-global.ppulsa = '08156808952' //pulsa2
+global.pdana = '083124327057' //pulsa1
+global.ppulsa = '083124327057' //pulsa2
 global.povo = '-' //ovo
 global.gopay = '-' //gopay
-global.dana = '08156808952' //dana
+global.dana = '083124327057' //dana
 global.sid = 'https://s.id/ReyzShop' //s.id
 global.psaweria = 'https://saweria.com/ArilXd' //saweria
 
 /*============== NOMOR ==============*/
-global.nomorwa = '628156808952' //whatsapp
-global.nomorbot = '62895342103306' //nomor Bot
-global.nomorown = '628156808952' //nomor Owner
-global.namebot = 'ᴇʟᴀɪɴᴀ ᴀɪ' //nama Bot
-global.nameown = 'ᴀʀɪʟ ᴀʀᴅɪᴀɴsʏᴀʜ ' //nama Owner
+global.nomorwa = '6283124327057' //whatsapp
+global.nomorbot = '6283124327057' //nomor Bot
+global.nomorown = '6283124327057' //nomor Owner
+global.namebot = 'BOT-FREE🗿' //nama Bot
+global.nameown = 'own gw' //nama Owner
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['628156808952', 'ᴀʀɪʟ ᴀʀᴅɪᴀɴsʏᴀʜ ', true] //creator/owner
+  ['6283124327057', 'Anjayy ', true] //creator/owner
 ] //put your number here
 global.mods = [] //moderator
 global.prems = [] //prem bukan disini
